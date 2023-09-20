@@ -6,8 +6,8 @@ let experiences = [
         _location: "Mountain View, CA",
         start: "2018-01-01",
         end: "2018-12-31",
-        description: "I founded google"
-        tags: ["python"],
+        description: "I founded google",
+        tags: ["python"]
     },
     {
         title: "CEO",
@@ -15,8 +15,8 @@ let experiences = [
         _location: "Menlo Park, CA",
         start: "2019-01-01",
         end: "2019-12-31",
-        description: "I was the CEO of Facebook"
-        tags: ["Fortran"],
+        description: "I was the CEO of Facebook",
+        tags: ["Fortran"]
     },
 ];
 
