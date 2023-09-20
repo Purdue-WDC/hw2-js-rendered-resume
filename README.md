@@ -9,11 +9,15 @@ frameworks like React use.
 
 ## Instructions
 
+Try to start early, so you can come to PSO if you get stuck!
+
 ### Phase 1 (80%)
 - First, remove all itemized section content from your HTML resume.
 - Then, add an id to each section container
 - Finally, write all your section items into JavaScript objects, like in the starter code,
   and use DOM methods to put everything on the page.
+- Use the [`Element.classList`](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList) to
+  add and remove CSS classes.
 
 ### Phase 2 (20%)
 - Add tags to each resume item. For example, tag all experiences related to web development with
